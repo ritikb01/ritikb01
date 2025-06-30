@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Bhadani</h1>
 <h3 align="center">A passionate SDET</h3>
 
-- 🌱 I’m currently learning **Pytest, Grafana K6**
+- 🌱 I’m currently learning **Pytest, Locust**
 
 - 📫 How to reach me **ritikbhadani.01rbk@gmail.com**
 
